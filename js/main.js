@@ -1,1 +1,5 @@
-window.location(console.log)
+function oldweb() {
+
+document.getElementById("fnf-old").InnerHTML = "mods coming soon?";
+
+}
